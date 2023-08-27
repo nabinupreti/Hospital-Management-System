@@ -17,4 +17,4 @@ A simple console based JAVA project made with the help of MySQL database.
 
 ### Display Patient
 
-[Display](/ASSETS/Picture4.png)
+![Display](/ASSETS/Picture4.png)
